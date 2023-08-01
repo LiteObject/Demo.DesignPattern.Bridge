@@ -1,1 +1,1 @@
-# Demo.DesignPattern.Bridge
+# Bridge Design Pattern
